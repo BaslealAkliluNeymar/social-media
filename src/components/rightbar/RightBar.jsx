@@ -16,7 +16,7 @@ function RightBar() {
           <li className="rightBarFriend">
             <div className="rightbarImgContainer">
               <img src="assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
-              <span className="rightbarOnline"></span>
+              <span className="rightbarOnline">This</span>
             </div>
           </li>
         </ul>
