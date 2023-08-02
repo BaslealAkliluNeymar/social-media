@@ -11,6 +11,15 @@ function RightBar() {
           </span>
         </div>
         <img src="/assets/ad.png" alt="" className="rightbarAd" />
+        <h4 className="rightbarTitle">Online Friends</h4>
+        <ul className="rightbarFriendList">
+          <li className="rightBarFriend">
+            <div className="rightbarImgContainer">
+              <img src="assets/person/3.jpeg" alt="" className="rightbarProfileImg" />
+              <span className="rightbarOnline"></span>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   )
